@@ -23,6 +23,10 @@ Welcome to my GitHub profile! I'm a student of Computer Engineering at Tec de Mo
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 
+![AlanRuro's Stats](https://github-readme-stats.vercel.app/api?username=AlanRuro&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![AlanRuro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanRuro&theme=dracula&hide_border=true)
+![AlanRuro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRuro&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 ## ☎ Contact
 Feel free to reach out! I'm always open to new opportunities and collaborations.
 
