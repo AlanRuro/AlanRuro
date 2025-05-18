@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alan
 
-Welcome to my GitHub profile! I'm a student of Computer Engineering at Tec de Monterrey, with a keen interest in backend, databases, and operating systems.
+Welcome to my GitHub profile! I'm a student of a B. S. in Computer Science and Technology at Tec de Monterrey, with a keen interest in backend, databases, and operating systems.
 
 ## 🚀 About Me
 - 🎓 Currently studying at Tec de Monterrey.
